@@ -16,7 +16,7 @@ ORG_DESCRIPTION = """CryptoG Group (the "Organization") is an anonymous, private
 [[CURRENCIES]]
 code = "CGX"
 name = "CryptoGDEX"
-issuer = "GDR4PJQ3CMXQX7CLFJBTT6EMBMEFPZCUEKWYQFRUZKHFY5KMXH32EUBX"
+issuer = "GBVQ7MLPL7EMNLYAJLDCNFTPXMJBXXDMPBWJBI6Q7XJNN4FMENS7MGZ6"
 display_decimals = 7
 is_asset_anchored = false
 anchor_asset_type = "none"
