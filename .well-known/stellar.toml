@@ -2,7 +2,8 @@
 # Stellar TOML for CGX Token (CryptoGDEX)
 # Network: Testnet
 # ==============================================
-
+VERSION = "2.0.0"
+ACCOUNTS = ["GBVQ7MLPL7EMNLYAJLDCNFTPXMJBXXDMPBWJBI6Q7XJNN4FMENS7MGZ6"]
 NETWORK_PASSPHRASE = "Test SDF Network ; September 2015"
 
 [DOCUMENTATION]
