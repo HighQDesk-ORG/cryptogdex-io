@@ -5,12 +5,6 @@
 
 VERSION = "2.0.0"
 NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
-HORIZON_URL = "https://horizon.stellar.org"
-
-# Temporary servers - FREE & WORKING
-FEDERATION_SERVER = "https://stellarid.io/federation"
-AUTH_SERVER = "https://stellarid.io/auth"
-TRANSFER_SERVER = "https://interstellar.exchange"
 SIGNING_KEY = "GAHCZ42GZTE644EXSBLBOBFMRGOO56SDLZ5XBKDWWSMZUQOHF3TGY7KW"
 
 [DOCUMENTATION]
@@ -33,7 +27,7 @@ name = "CryptoGDEX"
 issuer = "GAHCZ42GZTE644EXSBLBOBFMRGOO56SDLZ5XBKDWWSMZUQOHF3TGY7KW"
 display_decimals = 7
 is_asset_anchored = false
-anchor_asset_type = "none"
+anchor_asset_type = "crypto"
 status = "live"
 desc = """The CryptoG Group (the "Organization") is an anonymous, privately owned, non-profit organization of volunteer humanitarians and experts from various fields. Based in our anonymous community worldwide, we strive to break conventional financial ground by bridging liberated governance to give back power to the people through the issuance of the CGX token, and the upcoming CryptoG Bank - a fully decentralized, no-KYC banking layer built on Stellar's Soroban smart contracts."""
 image = "https://gateway.pinata.cloud/ipfs/bafkreiekzt4qpnprtiuts5j7gzn2xmgqp4ke2z5jib7agnzwbqm2vk7syq"
