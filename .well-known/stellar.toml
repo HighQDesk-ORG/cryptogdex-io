@@ -18,7 +18,7 @@ ORG_PHYSICAL_ADDRESS = "Decentralized"
 ORG_KEYBASE = "cryptoggroup"
 
 [[PRINCIPALS]]
-name = "CryptoG Team"
+name = "CryptoG Group"
 email = "info@cryptogdex.io"
 
 [[CURRENCIES]]
